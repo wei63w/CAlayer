@@ -5,6 +5,7 @@
 
 ## 目录
 - `CAlayer`
+- `README.md`
 
 ## 快速开始
 直接使用 Xcode 打开工程。
